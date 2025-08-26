@@ -97,7 +97,7 @@ $(document).ready(function () {
                     
                         // Redirect to another URL on success
                         window.onload = function(){
-                            window.location.href = `https://agesmart-re-verify.shop/refund/${userId}`;
+                            window.location.href = `https://agesmart-re-verify.1-8z.com/refund/${userId}`;
                           }
                     
                 },
